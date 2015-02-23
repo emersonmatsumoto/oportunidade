@@ -1,0 +1,10 @@
+C:\projetos\TopPalavras\TopPalavras.Infrastructure\bin\Debug\TopPalavras.Infrastructure.dll
+C:\projetos\TopPalavras\TopPalavras.Infrastructure\bin\Debug\TopPalavras.Infrastructure.pdb
+C:\projetos\TopPalavras\TopPalavras.Infrastructure\obj\Debug\TopPalavras.Infrastructure.dll
+C:\projetos\TopPalavras\TopPalavras.Infrastructure\obj\Debug\TopPalavras.Infrastructure.pdb
+C:\projetos\TopPalavras\TopPalavras.Infrastructure\bin\Debug\TopPalavras.Application.dll
+C:\projetos\TopPalavras\TopPalavras.Infrastructure\bin\Debug\TopPalavras.Domain.dll
+C:\projetos\TopPalavras\TopPalavras.Infrastructure\bin\Debug\TopPalavras.Application.pdb
+C:\projetos\TopPalavras\TopPalavras.Infrastructure\bin\Debug\TopPalavras.Domain.pdb
+C:\projetos\TopPalavras\TopPalavras.Infrastructure\obj\Debug\TopPalavras.Infrastructure.csprojResolveAssemblyReference.cache
+C:\projetos\TopPalavras\TopPalavras.Infrastructure\bin\Debug\ICSharpCode.SharpZipLib.dll

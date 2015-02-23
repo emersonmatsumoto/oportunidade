@@ -1,0 +1,17 @@
+C:\projetos\TopPalavras\TopPalavras\bin\Debug\TopPalavras.exe.config
+C:\projetos\TopPalavras\TopPalavras\bin\Debug\TopPalavras.exe
+C:\projetos\TopPalavras\TopPalavras\bin\Debug\TopPalavras.pdb
+C:\projetos\TopPalavras\TopPalavras\obj\Debug\TopPalavras.csprojResolveAssemblyReference.cache
+C:\projetos\TopPalavras\TopPalavras\obj\Debug\TopPalavras.exe
+C:\projetos\TopPalavras\TopPalavras\obj\Debug\TopPalavras.pdb
+C:\projetos\TopPalavras\TopPalavras\bin\Debug\StructureMap.dll
+C:\projetos\TopPalavras\TopPalavras\bin\Debug\StructureMap.Net4.dll
+C:\projetos\TopPalavras\TopPalavras\bin\Debug\TopPalavras.Application.dll
+C:\projetos\TopPalavras\TopPalavras\bin\Debug\TopPalavras.Domain.dll
+C:\projetos\TopPalavras\TopPalavras\bin\Debug\TopPalavras.Infrastructure.dll
+C:\projetos\TopPalavras\TopPalavras\bin\Debug\TopPalavras.Application.pdb
+C:\projetos\TopPalavras\TopPalavras\bin\Debug\TopPalavras.Domain.pdb
+C:\projetos\TopPalavras\TopPalavras\bin\Debug\TopPalavras.Infrastructure.pdb
+C:\projetos\TopPalavras\TopPalavras\bin\Debug\StructureMap.pdb
+C:\projetos\TopPalavras\TopPalavras\bin\Debug\StructureMap.xml
+C:\projetos\TopPalavras\TopPalavras\bin\Debug\StructureMap.Net4.pdb

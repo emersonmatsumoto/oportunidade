@@ -1,0 +1,5 @@
+C:\projetos\TopPalavras\TopPalavras.Domain\bin\Debug\TopPalavras.Domain.dll
+C:\projetos\TopPalavras\TopPalavras.Domain\bin\Debug\TopPalavras.Domain.pdb
+C:\projetos\TopPalavras\TopPalavras.Domain\obj\Debug\TopPalavras.Domain.csprojResolveAssemblyReference.cache
+C:\projetos\TopPalavras\TopPalavras.Domain\obj\Debug\TopPalavras.Domain.dll
+C:\projetos\TopPalavras\TopPalavras.Domain\obj\Debug\TopPalavras.Domain.pdb

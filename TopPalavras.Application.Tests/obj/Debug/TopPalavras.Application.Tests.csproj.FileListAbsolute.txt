@@ -1,0 +1,11 @@
+C:\projetos\TopPalavras\TopPalavras.Application.Tests\bin\Debug\TopPalavras.Application.Tests.dll
+C:\projetos\TopPalavras\TopPalavras.Application.Tests\bin\Debug\TopPalavras.Application.Tests.pdb
+C:\projetos\TopPalavras\TopPalavras.Application.Tests\obj\Debug\TopPalavras.Application.Tests.csprojResolveAssemblyReference.cache
+C:\projetos\TopPalavras\TopPalavras.Application.Tests\obj\Debug\TopPalavras.Application.Tests.dll
+C:\projetos\TopPalavras\TopPalavras.Application.Tests\obj\Debug\TopPalavras.Application.Tests.pdb
+C:\projetos\TopPalavras\TopPalavras.Application.Tests\bin\Debug\Moq.dll
+C:\projetos\TopPalavras\TopPalavras.Application.Tests\bin\Debug\TopPalavras.Application.dll
+C:\projetos\TopPalavras\TopPalavras.Application.Tests\bin\Debug\TopPalavras.Domain.dll
+C:\projetos\TopPalavras\TopPalavras.Application.Tests\bin\Debug\TopPalavras.Application.pdb
+C:\projetos\TopPalavras\TopPalavras.Application.Tests\bin\Debug\TopPalavras.Domain.pdb
+C:\projetos\TopPalavras\TopPalavras.Application.Tests\bin\Debug\Moq.xml
